@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Rishikesh-Rajput/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rishikesh-Rajput/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,8 +30,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Rishikesh-Rajput/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rishikesh-Rajput/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Rishikesh-Rajput/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rishikesh-Rajput/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 <!---LeetCode Topics End-->
