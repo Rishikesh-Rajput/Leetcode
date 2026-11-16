@@ -17,4 +17,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rishikesh-Rajput/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Rishikesh-Rajput/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Rishikesh-Rajput/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Rishikesh-Rajput/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Rishikesh-Rajput/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
